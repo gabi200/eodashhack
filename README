@@ -3,7 +3,7 @@ Requires the following modules: opencv-python, colorthief, Pillow
 
 Run "python main.py" to execute the program
 
-INPUT.png is the input image, OUTPUT.png is the output
+INPUT.png is the input image, OUTPUT.png is the output. The program is optimised (and expecting) images having the resolution of 1080x1080px.
 Follow the on-screen instructions when running the program.
 
 The colors seen in the output image should show what is on the land:
