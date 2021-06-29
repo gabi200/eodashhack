@@ -1,0 +1,10 @@
+{
+ "apa": ["1f3039", "21373b"],
+ "teren_cultivat": ["454647", "3d4945"],
+ "teren_necultivat": ["53484d", "3c3c44"],
+ "grau": ["76615d", "6d5b5a"],
+ "nor": "ffffff",
+ "cladire": ["fef6e9", "78404b", "5d5d60"],
+ "pan_sol": "72828a",
+ "padure": ["203038", "1a2a35"]
+}
